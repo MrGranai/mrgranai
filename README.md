@@ -1,4 +1,4 @@
-# Hello, I'm Artur Granai Filho 👋
+# Hello, I'm Artur Granai 👋
 
 ## Technical Supervisor | Aspiring Specialist in Information Security and Cloud Computing
 
