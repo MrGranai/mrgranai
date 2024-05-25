@@ -8,7 +8,7 @@
 - 🔭 Currently working as a Technical Supervisor in electronic security systems, including alarms, cameras, and access control
 - 🌱 Learning Python and working on my first project, which I intend to share here
 - 💬 Ask me about electronic security systems, Python, or anything tech-related
-- 📫 How to reach me: [Your Email](mailto:youremail@gmail.com)
+- 📫 How to reach me: [arturgranaif@gmail.com](mailto:arturgranaif@gmail.com)
 - ⚡ Fun fact: Passionate about technology and innovation, always seeking to learn more about the vast world of computing.
 
 ## 🛠️ Technologies and Tools
@@ -16,9 +16,9 @@
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 ## 📈 My GitHub Stats
-![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrGranai&show_icons=true&theme=radical)
 ## 🗂️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGranai&layout=compact&theme=radical)
 
 ## 📚 Blog Posts
 - [Coming soon: My first Python project](#)
