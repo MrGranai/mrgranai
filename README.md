@@ -27,6 +27,9 @@
 ### 🗂️ Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGranai&layout=compact&theme=radical)
 
+### 📝 Projects
+- **[Computer Science Repository](https://github.com/MrGranai/computer-science)**: This repository contains Python scripts developed during my Bachelor's in Computer Science. It includes scripts for simple student grade evaluation and basic arithmetic operations.
+
 ### 📚 Blog Posts
 - [Coming soon: My first Python project](#)
 
