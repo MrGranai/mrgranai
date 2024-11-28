@@ -8,7 +8,7 @@
 
 ### Technical Supervisor | Aspiring Specialist in Information Security and Cloud Computing
 
-- 🌍 Living in Brazil, with plans to move to Ireland in 2025
+- 🌍 Living in Brazil, with plans to move to Ireland in 2026
 - 🎓 Currently studying for a Bachelor’s in Computer Science and improving my English skills (CEFR level A1) to reach new international opportunities
 - 🚀 Aiming to pursue a career in Information Security or Cloud Computing
 - 🔭 Currently working as a Technical Supervisor in electronic security systems, including alarms, cameras, and access control, with a technical background in Electrical Engineering
