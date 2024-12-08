@@ -23,7 +23,7 @@
 
 ## 🛠️ Technical Stack and Tools
 ### **Languages**
-- 🐍 Python | ☕ Java | 🌐 HTML, CSS, JavaScript
+- 🐍 Python | ☕ Java | 🌐 JavaScript
 
 ### **Backend**
 - Node.js | Express.js
@@ -32,7 +32,7 @@
 - SQLite (development) | PostgreSQL (planned production)
 
 ### **Tools**
-- Docker | Visual Studio Code | Git | GitHub | WordPress | Bash Terminal
+- Docker | Visual Studio Code | Git | GitHub | WordPress | Bash Terminal | HTML | CSS
 
 ---
 
